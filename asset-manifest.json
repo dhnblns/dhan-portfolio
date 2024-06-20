@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dhan-portfolio/static/css/main.78b65475.css",
+    "main.js": "/dhan-portfolio/static/js/main.3999cfd1.js",
+    "static/js/453.1407b060.chunk.js": "/dhan-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/profile2.png": "/dhan-portfolio/static/media/profile2.1a9c7da0cda7ac97a2a1.png",
+    "static/media/project.png": "/dhan-portfolio/static/media/project.35dfb10b99f09b0005f2.png",
+    "static/media/tab-icon.png": "/dhan-portfolio/static/media/tab-icon.0c931db0cf1b36272456.png",
+    "index.html": "/dhan-portfolio/index.html",
+    "main.78b65475.css.map": "/dhan-portfolio/static/css/main.78b65475.css.map",
+    "main.3999cfd1.js.map": "/dhan-portfolio/static/js/main.3999cfd1.js.map",
+    "453.1407b060.chunk.js.map": "/dhan-portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b65475.css",
+    "static/js/main.3999cfd1.js"
+  ]
+}
